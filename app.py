@@ -1,3 +1,5 @@
+pip install --upgrade "gradio>=5"
+
 import gradio as gr
 import pickle
 import numpy as np
